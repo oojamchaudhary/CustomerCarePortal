@@ -1,15 +1,15 @@
 Project Overview: Customer Care Portal Using Java Swing
-Role-Based Dashboards:
 
+Role-Based Dashboards:
 Customers: File and track complaints effortlessly.
 Employees: Review and resolve complaints efficiently.
 Admins: Manage employees and oversee operations.
-Technologies Used:
 
+Technologies Used:
 Frontend: Java Swing for a user-friendly GUI.
 Backend: MySQL for secure and scalable data management.
-Key Features:
 
+Key Features:
 Secure login with role-specific functionality.
 Streamlined complaint resolution process.
 Easy employee management by admins.
