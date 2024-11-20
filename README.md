@@ -1,1 +1,16 @@
-This project is a desktop application for an electronic accessories manufacturer, featuring role-based dashboards for Customers, Employees, and Admins. Built with Java Swing for GUI and MySQL for data storage, it allows customers to file and track complaints, employees to process them, and admins to manage users. The system ensures streamlined complaint resolution and secure operations.
+Project Overview: Customer Care Portal Using Java Swing
+Role-Based Dashboards:
+
+Customers: File and track complaints effortlessly.
+Employees: Review and resolve complaints efficiently.
+Admins: Manage employees and oversee operations.
+Technologies Used:
+
+Frontend: Java Swing for a user-friendly GUI.
+Backend: MySQL for secure and scalable data management.
+Key Features:
+
+Secure login with role-specific functionality.
+Streamlined complaint resolution process.
+Easy employee management by admins.
+This application ensures smooth operations and enhanced user experience for the manufacturer!
